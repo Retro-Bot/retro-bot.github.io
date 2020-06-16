@@ -1,5 +1,7 @@
 # RetroBot
 
+[Download here.](https://github.com/Retro-Bot/retro-bot.github.io/releases/download/v0.2.1/RetroBot.v0.2.1.zip)
+
 ## Instruções de uso RetroBot
 
 ![Image of RetroBot](retrobot.png)
