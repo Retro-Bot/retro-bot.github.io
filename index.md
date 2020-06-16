@@ -1,5 +1,13 @@
 # RetroBot
 
+Works on all clients!
+
+- Nostalrius
+- Medivia
+- Imperianic
+- ...
+
+
 [DOWNLOAD HERE.](RetroBot-v0.2.1.zip)
 
 ## Instruções de uso RetroBot
